@@ -57,21 +57,4 @@ Churn Prediction & Retention:
 Implement churn prediction models to identify at-risk customers and suggest appropriate retention strategies.
 Recommendation Engine:
 
-Based on customer segments and purchase behavior, generate recommendations for tire-related products and services.
-Key Insights and Applications
-Targeted Marketing Campaigns: Using customer segments, targeted marketing campaigns can be designed for frequent buyers, seasonal customers, or those who tend to buy specific tire types.
-Cross-Selling and Up-Selling: Insights from basket analysis can help identify cross-sell opportunities (e.g., offering maintenance services or related products like tire covers).
-Customer Retention: The churn analysis helps identify customers who are at risk of not purchasing again and allows for early intervention with special offers or reminders.
-Technologies Used
-Python: The primary programming language for data analysis and modeling.
-Pandas for data manipulation.
-NumPy for numerical computations.
-Scikit-learn for clustering (K-Means) and model evaluation.
-Matplotlib/Seaborn for data visualization.
-Requirements
-Python 3.x
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+Used SARIMA to predict future sales for next 2 years.
